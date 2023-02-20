@@ -4139,9 +4139,9 @@ dependencies = [
 
 [[package]]
 name = "memmap2"
-version = "0.5.0"
+version = "0.5.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4647a11b578fead29cdbb34d4adef8dd3dc35b876c9c6d5240d83f205abfe96e"
+checksum = "2af2c65375e552a67fe3829ca63e8a7c27a378a62824594f43b2851d682b5ec2"
 dependencies = [
  "libc",
 ]
@@ -6329,8 +6329,8 @@ dependencies = [
  "frame-support",
  "frame-system",
  "pallet-balances",
- "pallet-root-testing",
  "pallet-collective",
+ "pallet-root-testing",
  "pallet-timestamp",
  "parity-scale-codec",
  "scale-info",
